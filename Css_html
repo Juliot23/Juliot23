@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultas Técnicas (Motor de combustión interna)</title>
+    <link rel="stylesheet" href="estilo.css"> <!-- Vinculación correcta -->
+</head>
+<body>
+    <header>
+        <h1>Consultas Técnicas</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido</h2>
+            <p>Aquí podrá obtener respuestas a consultas que tenga sobre algún problema con su motor.</p>
+        </section>
+
+        <section id="servicios">
+            <h2>Servicios</h2>
+            <p>Ofrecemos una variedad de servicios para mantener su motor en óptimas condiciones:</p>
+            <ul>
+                <li>Reparación de motores</li>
+                <li>Mantenimiento preventivo</li>
+                <li>Consultoría técnica</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Sobre nosotros</h2>
+            <p>Somos personal capacitado dispuestos a ayudarte.</p>
+        </section>
+
+        <section id="galeria">
+            <h2>Galería</h2>
+            <p>Aquí podrá visualizar posibles soluciones dependiendo de su problema.</p>
+            <img src="https://i.imgur.com/viCxJur.jpg" alt="Posibles causas"> <!-- Usando el enlace de Imgur -->
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Puedes contactarnos a través de:</p>
+            <p>Email: <a href="mailto:jj3207841@gmail.com">jj3207841@gmail.com</a></p>
+            <p>Teléfono: 89378474</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Cesar Juárez - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
